@@ -1,0 +1,32 @@
+server:
+  port: 10205
+spring:
+  application:
+    name: heifeng-demo-security
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://116.63.146.70:3306/user-center?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    #    url: jdbc:mysql://127.0.0.1:3306/user-center?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: kechuang123
+    driver-class-name: com.mysql.jdbc.Driver
+#  redis:
+#    host: 127.0.0.1
+#  rabbitmq:
+#    host: 192.168.164.132
+#    username: admin
+#    password: 0105.com
+#    virtual-host: /heifeng
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10001/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5
+    lease-expiration-duration-in-seconds: 15
+mybatis-plus:
+  type-aliases-package: com.heifeng.user.registry.pojo
+#  mapper-locations: com.heifeng.user.registry.mapper
+logging:
+  config: classpath:logging/logback-spring.xml
+
