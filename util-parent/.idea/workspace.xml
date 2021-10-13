@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f34c69e7-e53a-4917-8ef9-fc66e16bb827" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/CodecUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/CookieUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/IdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/NumberUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/SnowFlakeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/ThreadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/properties/custom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/properties/typeConverter.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/core/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/core/GeneratorFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/Column.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/CodeUtil.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/CodeUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/DatabaseUtil.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/DataBaseUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/PropertiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/templates/template01.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/templates/template02.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/${path2}_${project}.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/CompanyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/controller/${ClassName}Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/dao/${ClassName}Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/pojo/${ClassName}.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/service/${ClassName}Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../MAVEN" />
+        <option name="userSettingsFile" value="D:\XLF_WORK\MAVEN\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ubZRJQPb6a1QRtLXdHA0YF1piK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heifeng.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaDevelopSoftware\Idea\userFiles\util-parent\src\main\java\com\heifeng\utils" />
+      <recent name="E:\javaDevelopSoftware\Idea\userFiles\waterchemistry-master\utils-parent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f34c69e7-e53a-4917-8ef9-fc66e16bb827" name="Default Changelist" comment="" />
+      <created>1624936239423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624936239423</updated>
+      <workItem from="1624936243838" duration="427000" />
+      <workItem from="1624936821374" duration="3081000" />
+      <workItem from="1625319988557" duration="1192000" />
+      <workItem from="1625495795912" duration="300000" />
+      <workItem from="1625641229332" duration="622000" />
+      <workItem from="1626061362405" duration="3577000" />
+      <workItem from="1627868016692" duration="1852000" />
+      <workItem from="1628491636926" duration="10000" />
+      <workItem from="1628842567969" duration="775000" />
+      <workItem from="1629079088282" duration="2779000" />
+      <workItem from="1630305467407" duration="1964000" />
+      <workItem from="1632395283355" duration="2259000" />
+      <workItem from="1634116946210" duration="838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
