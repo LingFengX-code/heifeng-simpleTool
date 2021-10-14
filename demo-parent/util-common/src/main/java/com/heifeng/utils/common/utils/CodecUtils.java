@@ -5,6 +5,11 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.util.UUID;
 
+/**
+ *  不可逆加密工具包
+ *  MD5加密 + sha加密
+ * @author XLF
+ */
 public class CodecUtils {
 
 

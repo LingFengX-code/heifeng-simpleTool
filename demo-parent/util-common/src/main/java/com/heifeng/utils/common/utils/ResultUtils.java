@@ -6,7 +6,7 @@ import com.heifeng.utils.common.vo.Result;
 /**
  * @Author: xlf
  * @Date: 2021/06/08/11:24
- * @Description: 返回值的工具包
+ * @Description: 通用返回值的工具包
  */
 public class ResultUtils<T> {
 

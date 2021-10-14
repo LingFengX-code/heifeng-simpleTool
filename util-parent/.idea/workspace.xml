@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f34c69e7-e53a-4917-8ef9-fc66e16bb827" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/CodecUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/CookieUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/NumberUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/SnowFlakeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/heifeng/utils/ThreadUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/properties/custom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/properties/typeConverter.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/core/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/core/GeneratorFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/Column.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/Settings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/entity/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/CodeUtil.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/CodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/DatabaseUtil.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/ui/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/DataBaseUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/FileUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/PropertiesUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/src/main/java/com/heifeng/generator/utils/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/templates/template01.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/templates/template02.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/${path2}_${project}.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/CompanyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/controller/${ClassName}Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/dao/${ClassName}Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/pojo/${ClassName}.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/java/${path1}/${path2}/${path3}/service/${ClassName}Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util-codeGenerator/模板/springboot程序的模板/${path2}_${project}/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f34c69e7-e53a-4917-8ef9-fc66e16bb827" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,8 +91,16 @@
       <workItem from="1629079088282" duration="2779000" />
       <workItem from="1630305467407" duration="1964000" />
       <workItem from="1632395283355" duration="2259000" />
-      <workItem from="1634116946210" duration="838000" />
+      <workItem from="1634116946210" duration="986000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交 工具包是在2021年7月份创建的">
+      <created>1634117853751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634117853751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,5 +116,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交 工具包是在2021年7月份创建的" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交 工具包是在2021年7月份创建的" />
   </component>
 </project>

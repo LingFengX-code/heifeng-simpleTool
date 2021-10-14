@@ -4,6 +4,7 @@ import cn.hutool.core.lang.Snowflake;
 import cn.hutool.core.util.IdUtil;
 
 /**
+ * 雪花算法 -- 直接用即可
  * @Author: xlf
  * @Date: 2021/06/04/15:28
  * @Description:

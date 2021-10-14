@@ -9,10 +9,11 @@ import java.util.regex.MatchResult;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+
 /**
- * @author: HuYi.Zhang
- * @create: 2018-04-25 09:13
- **/
+ *  number的工具包，待完善
+ * @author XLF
+ */
 public class NumberUtils {
 
     public static boolean isInt(Double num) {
@@ -42,7 +43,12 @@ public class NumberUtils {
         return bd.setScale(scale, RoundingMode.HALF_UP).doubleValue();
     }
 
-    // 从字符串中根据正则表达式寻找，返回找到的数字数组
+    /**
+     * 从字符串中根据正则表达式寻找，返回找到的数字数组
+     * @param value
+     * @param regex
+     * @return
+     */
     public static Double[] searchNumber(String value, String regex){
         List<Double> doubles = new ArrayList<>();
         Pattern pattern = Pattern.compile(regex);

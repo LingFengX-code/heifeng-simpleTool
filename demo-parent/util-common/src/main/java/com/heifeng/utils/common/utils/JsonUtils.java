@@ -12,6 +12,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ *  这个工具包已经被ali的jackson取代
+ *      不过还是可以自定义使用
  * @author xlf
  */
 public class JsonUtils {

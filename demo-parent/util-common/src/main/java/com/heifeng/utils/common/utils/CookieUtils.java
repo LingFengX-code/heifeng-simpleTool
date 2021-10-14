@@ -12,7 +12,7 @@ import java.net.URLDecoder;
 import java.net.URLEncoder;
 
 /**
- * Cookie 工具类
+ * Cookie http cokie使用的封装工具类
  * @author xlf
  */
 public final class CookieUtils {
@@ -31,7 +31,7 @@ public final class CookieUtils {
 	}
 
 	/**
-	 * 得到Cookie的值,
+	 * 得到Cookie的值
 	 *
 	 * @param request
 	 * @param cookieName

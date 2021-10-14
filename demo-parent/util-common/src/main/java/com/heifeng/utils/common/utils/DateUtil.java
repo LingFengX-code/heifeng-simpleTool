@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * @author XLF
@@ -195,30 +196,14 @@ public class DateUtil {
     }
 
     public static void main(String[] args) {
-        /*SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");
-        Date endTime = new Date();
-        Date startTime = rangeToDate(0);
-        Date startTime1 = rangeToDate(1);
-        Date startTime2 = rangeToDate(2);
-        Date startTime3 = rangeToDate(3);
-        Date startTime4 = rangeToDate(4);
-        System.out.println("开始时间:" + format.format(startTime));
-        System.out.println("开始时间:" + format.format(startTime1));
-        System.out.println("开始时间:" + format.format(startTime2));
-        System.out.println("开始时间:" + format.format(startTime3));
-        System.out.println("开始时间:" + format.format(startTime4));
-        System.out.println("结束时间:" + format.format(endTime));*/
-        /*List<String> recentDays = completionDate(LocalDateTime.now().minusDays(29), LocalDateTime.now());
-        for (String recentDay : recentDays) {
-            System.out.println(recentDay);
-        }*/
-
-        /*Date start = new Date();
-        System.out.println(dateToRange(null, start));*/
-
-        SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        Date today = today();
-        System.out.println(format.format(today));
+        List<Integer> sortLists = new ArrayList<>();
+        sortLists.add(1);
+        sortLists.add(4);
+        sortLists.add(6);
+        sortLists.add(3);
+        sortLists.add(2);
+        sortLists.stream().sorted((In1,In2)->
+                In1-In2).forEach(s -> System.out.println(s));
     }
 
 }

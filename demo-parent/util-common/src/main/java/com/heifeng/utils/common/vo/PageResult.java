@@ -1,4 +1,4 @@
-package com.heifeng.utils.common.pojo;
+package com.heifeng.utils.common.vo;
 
 import lombok.Data;
 
