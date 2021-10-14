@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="netty-websocket" />
         <module name="demo-activiti7" />
-        <module name="05-websocket" />
         <module name="demo-exception" />
         <module name="demo-security" />
         <module name="util-common" />
